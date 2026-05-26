@@ -6,7 +6,7 @@ _start:
     mov rbx, 7
     add rax, rbx
 
-    ; O resultado 8 fica em rax.
+    ; O resultado 17 fica em rax.
     ; Por enquanto vamos apenas encerrar o programa.
 
     mov rax, 60
