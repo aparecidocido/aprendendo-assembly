@@ -2,8 +2,8 @@ section .text
     global _start
 
 _start:
-    mov rax, 5
-    mov rbx, 3
+    mov rax, 10
+    mov rbx, 7
     add rax, rbx
 
     ; O resultado 8 fica em rax.
