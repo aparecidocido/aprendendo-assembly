@@ -1,5 +1,5 @@
 section .data
-    msg db "Oi, cido", 10
+    msg db "Oi, cido", 10 ,"estou aprendendo assembly",10
     len equ $ - msg
 
 section .text
